@@ -1,8 +1,8 @@
 def my_each(list)
-  N =0
+  i =0
   while  N < list.length
-    yield list[N]
-    N =N+1
+    yield list[i]
+    i =i+1
     end
 
 
