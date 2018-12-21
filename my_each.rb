@@ -6,9 +6,9 @@ while  i< words.length
   # do |word|
 
 #end
- 
+
     i =i+1
 end
-return words 
+return words
 end
 # my_each(words)
