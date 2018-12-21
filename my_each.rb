@@ -6,6 +6,7 @@ while  i< words.length
    do |word|
 puts  word
 
+
     i =i+1
   end
  end
