@@ -1,7 +1,7 @@
-def my_each(list)
+def my_each(words
   i =0
 #  words= []
-while  N < list.length
+while  i< words.length
     yield list[i]
 # words <<
     i =i+1
