@@ -10,6 +10,4 @@ while  i< words.length
   #end
  end
 end
- #my_each(list)  do |array|
-
-#end
+ my_each(words)
