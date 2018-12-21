@@ -3,11 +3,11 @@ def my_each(words)
 #  words= []
 while  i< words.length
     yield words[i]
-  #  do |
-
+   do |word|
+puts  word
 
     i =i+1
-  #end
+  end
  end
 end
- my_each(words)
+# my_each(words)
