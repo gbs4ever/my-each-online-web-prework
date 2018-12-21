@@ -7,6 +7,6 @@ def my_each(list)
     i =i+1
     end
 end
- my_each(list)  do |array|
+ my_each()  do |array|
 
 end
