@@ -4,7 +4,7 @@ def my_each(words)
 while  i< words.length
     yield words[i]
     do
-      
+
     end
     i =i+1
 end
